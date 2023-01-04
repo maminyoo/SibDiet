@@ -14,7 +14,7 @@ class ViewController: MainViewController, IncomingSceneDelegate, LoginDelegate, 
                 if iOS11 { dietConnection.loadBackground() }
                 else { dietConnection.getProfile() } }
             else { users.loadLastUser() } }
-        dietConnection.getData("09124788269", "1900890")
+//        dietConnection.getData("09124788269", "1900890")
     }
     // MARK: - INCOMING SCENE
     func setIncomingScene(){
