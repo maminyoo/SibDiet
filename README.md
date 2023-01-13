@@ -1,7 +1,7 @@
 # SibDiet
 Professor H.Roshandel diet therapy iOS application.
 
-Design and Develop By Amin Sadeghian
+Design and Develop by Amin Sadeghian
 
 . Fully customized programming architecture
 . Design and development with custom components
